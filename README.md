@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm BenCore
 
 <div align="center">
-    <img src="[[https://your-profile-image-url.com](https://i.pinimg.com/736x/5d/8c/19/5d8c19e4d418bc7440bc5ef983c10416.jpg)](https://i.pinimg.com/736x/5d/8c/19/5d8c19e4d418bc7440bc5ef983c10416.jpg)" alt="Profile Banner" width="800"/>
+    <img src="https://i.pinimg.com/736x/5d/8c/19/5d8c19e4d418bc7440bc5ef983c10416.jpg" alt="Profile Banner" width="800"/>
 </div>
 
 ## 💫 About Me
