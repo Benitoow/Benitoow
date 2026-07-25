@@ -2,8 +2,7 @@
 
 ### `> ben@portfolio ~$ whoami`
 
-**Ben** — 20 ans, BUT MMI Création Numérique à Troyes.
-Je code des trucs qui servent à des trucs.
+**Ben** — 20 ans, BUT MMI Création Numérique à Velizy.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-benjaminleleu.fr-6C63FF?style=flat&logo=google-chrome&logoColor=white)](https://benjaminleleu.fr/html/)
 
