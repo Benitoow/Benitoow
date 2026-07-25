@@ -4,7 +4,7 @@
 
 **Ben** — 20 ans, BUT MMI Création Numérique à Velizy.
 
-[![Portfolio](https://img.shields.io/badge/portfolio-benjaminleleu.fr-6C63FF?style=flat&logo=google-chrome&logoColor=white)](https://benjaminleleu.fr/html/)
+[![Portfolio](https://img.shields.io/badge/portfolio-benjaminleleu.fr-6C63FF?style=flat&logo=google-chrome&logoColor=white)](https://benjaminleleu.fr)
 
 </div>
 
@@ -14,7 +14,8 @@
 
 - Apps web full-stack (SvelteKit, React, Django, Node)
 - Intégration d'IA dans des projets concrets (fine-tuning LLMs, CV, bots)
-- Sites pro pour de vrais clients (pas juste des projets école qui prennent la poussière)
+- Sites pro pour de vrais clients (Vitrine)
+- MCP pour IA
 
 ### 🧠 Stack
 
